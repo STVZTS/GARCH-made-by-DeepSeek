@@ -55,6 +55,7 @@ This project is licensed under the MIT License.
 ## Contact
 For any questions or feedback, please contact langhuafeiyang@outlook.com.
 
+-------------------------------------------------------------------------  
 ## Chinese Edition 中文版
 ## 中证1000指数波动率预测（基于GARCH(1,1)模型） 使用DeepSeek-R1自动编程
 本项目使用 Python 和 GARCH(1,1) 模型对中证1000指数的历史数据进行波动率预测。项目包括数据获取、数据预处理、模型拟合、波动率预测以及可视化结果。
